@@ -1,0 +1,20 @@
+Programming Mastery::Programming::1990::678::9.2
+Data Structures and Algorithms for Beginners::Data Structures::1985::300::8.1
+Algorithm Design Techniques::Algorithms::1995::523::9.0
+The Art of Operating Systems::Operating Systems::2000::789::8.5
+Gaming Engine Architecture::Gaming::2010::384::9.3
+Object-Oriented Programming Fundamentals::Programming::2002::550::8.8
+Advanced Data Structures::Data Structures::1999::700::9.4
+Optimization Algorithms::Algorithms::2005::450::8.9
+Operating System Internals::Operating Systems::2008::800::8.7
+Game Design Patterns::Gaming::2012::600::9.1
+Functional Programming Concepts::Programming::2014::400::8.5
+Data Mining Algorithms::Algorithms::2016::800::9.2
+Real-Time Operating Systems::Operating Systems::2018::500::8.8
+Game Physics Engine Development::Gaming::2019::700::9.5
+Object-Oriented Design Patterns::Programming::1980::550::8.7
+Data Structures for Competitive Programming::Data Structures::1981::650::9.1
+Algorithm Design and Analysis::Algorithms::1982::500::8.9
+Operating Systems Theory::Operating Systems::1983::700::9.0
+Game AI Techniques::Gaming::1984::800::9.2
+Parallel Computing Techniques::Programming::2018::800::9.1
