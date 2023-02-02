@@ -9,7 +9,7 @@ public class Main {
 		Scanner myObj = new Scanner(System.in);
 		
 		while(true) {
-			System.out.print("$:");
+			System.out.print("$: ");
 			String cmd = myObj.nextLine();
 			
 			parser.parse(cmd);
