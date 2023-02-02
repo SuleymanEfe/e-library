@@ -18,3 +18,4 @@ Algorithm Design and Analysis::Algorithms::1982::500::8.9
 Operating Systems Theory::Operating Systems::1983::700::9.0
 Game AI Techniques::Gaming::1984::800::9.2
 Parallel Computing Techniques::Programming::2018::800::9.1
+MyBook::AI::2023::154::9.8
